@@ -2,65 +2,65 @@ import React from "react";
 import  InformationTitle from "./InformationTitle"
 import Project from "./Project"
 
-//  import MealSharing from "../img/meal-sharing.png"
-// import Giphy from "../img/giphy.PNG"
-// import MoveCircles from "../img/move-circles.PNG"
-// import RandomCircles from "../img/random-circles.PNG"
-// import Weather from "../img/weather.PNG"
-
-
 const projects=[
     {
       projectName:"Meal Sharing",
       description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
         The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
       type:`Node.js - Fullstack development`,
-      imageSrc:'../img/meal-sharing.png',
+      imageSrc:require('../img/meal-sharing.PNG'),
       imageAlt:"Meal sharing app"
     },
     {
-        projectName:"Move Circles",
-        description:`Move the circles from the current random position to the target position :
-        Translate one by one: translate the circles one at a time from their random start position to their target .
-        Translate all at once: translate all the circles at the same time from their random start position to their target and log All boxes fulfilled out after each element has been moved.`,
-        type:`Java Script -Promise.all and calling a promise one at a time`,
-        imageAlt:"Move circles app"
-      },
-      {
-        projectName:"Meal Sharing",
-        description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
-          The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
-        type:`Node.js - Fullstack development`
-      },
-      {
-        projectName:"Meal Sharing",
-        description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
-          The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
-        type:`Node.js - Fullstack development`
-      },
-      {
-        projectName:"Meal Sharing",
-        description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
-          The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
-        type:`Node.js - Fullstack development`
-      },
+      projectName:"Move Circles",
+      description:`Move the circles from the current random position to the target position :
+      Translate one by one and translate all at once and log All boxes fulfilled out after each element has been moved.`,
+      type:`Java Script -Promise.all and calling a promise one at a time`,
+      imageSrc:require('../img/move-circles.PNG'),
+      imageAlt:"Move circles app"
+    },
+    {
+      projectName:"Random Circles",
+      description:`There are two ways to draw the circles:
+      create lots of circles in different sizes and colors on a webpage every 100ms.
+      create lots of circles in different sizes and colors on a webpage and the circles appear around the cursor.`,
+      type:`Java Script Classes`,
+      imageSrc:require('../img/random-circles.PNG'),
+      imageAlt:"Random circles app"
+    },
+    {
+      projectName:"Giphy",
+      description:`A site where a user can search for any word.
+        When searching a word the application will find a gif using the searched word using the giphy api.
+        User can specify how many gif results the user wants.`,
+      type:"Java Script, Apis, Fetch",
+      imageSrc:require('../img/giphy.PNG'),
+      imageAlt:"Giphy app"
+    },
+    {
+      projectName:"Weather",
+      description:`Based on a user's location can find the relevant weather for that user..`,
+      type:`Java Script, Apis, Fetch`,
+      imageSrc:require('../img/weather.PNG'),
+      imageAlt:"Weather app"
+    },
 ]
 
 function Projects(){
     return (
     <section id="projects">
-    <div className="projects container">
-        <div className="projects-header">
-            <InformationTitle  title="Recent Projects"/>
-        </div>
-        <div className="all-projects">
-            <Project project={projects[0]} />
-            {/* <Project project={projects[1]} />
-            <Project project={projects[2]} />
-            <Project project={projects[3]} />
-            <Project project={projects[4]} /> */}
-        </div>
-    </div>
+      <div className="projects container">
+          <div className="projects-header">
+              <InformationTitle  title="Recent Projects"/>
+          </div>
+          <div className="all-projects">
+              <Project project={projects[0]} />
+              <Project project={projects[1]} />
+              <Project project={projects[2]} />
+              <Project project={projects[3]} />
+              <Project project={projects[4]} />
+          </div>
+      </div>
     </section>
     )
 }
