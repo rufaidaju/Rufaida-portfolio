@@ -7,12 +7,9 @@ let educationImg = {
      university :"https://img.icons8.com/dusk/64/000000/university.png",
      hyf:"https://img.icons8.com/officel/80/000000/courses.png",
      secondaryEducation:"https://img.icons8.com/bubbles/100/000000/school.png"
-
 }
 
-// University <img src="https://img.icons8.com/officel/16/000000/university.png"/>
-// course <img src="https://img.icons8.com/officel/16/000000/courses.png"/>
-// Secondary education <img src="https://img.icons8.com/bubbles/50/000000/school.png"/>
+
 function Education(){
 return(
     <section id="informations">
@@ -42,6 +39,5 @@ return(
                </div>
           </div>
     </section>
-)
-}
+)}
 export default Education;

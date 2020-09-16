@@ -11,6 +11,5 @@ return(
     <p>{props.content.name}</p>
     <p>{props.content.description}</p>
 </div>          
-)
-}
+)}
 export default InformationContent;

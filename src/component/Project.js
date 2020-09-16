@@ -8,7 +8,6 @@ class Project extends Component{
         }
     }
     render(){
-        // let a=this.props.imageSrc;
         return (
             <div className="project-item">
             <div className="project-info">
@@ -17,7 +16,7 @@ class Project extends Component{
                 <p className="project-type">{this.props.project.type} </p>
             </div>
             <div className="project-img">
-            <img src = {require(this.props.project.imageSrc)} alt={this.props.project.imageAlt} />
+            <img src = {this.props.project.imageSrc} alt={this.props.project.imageAlt} />
             </div>
         </div> 
         )
