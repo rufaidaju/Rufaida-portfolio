@@ -8,7 +8,7 @@ function Start (){
             <div>
                 <p>Hello, <span></span></p>
                 <p>My Name Is <span></span></p>
-                <h1>Rufaida <span></span></h1>
+                <p>Rufaida <span></span></p>
                 <a href="#" type="button" className="cta">Portfolio</a>
             </div>   
         </div>
