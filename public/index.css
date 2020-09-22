@@ -32,6 +32,23 @@ img{
     text-align: center;
     color:crimson;
 }
+.brand h1 {
+	font-size: 3rem;
+	text-transform: uppercase;
+	color: white;
+}
+
+.brand p {
+    font-size: 5rem;
+	text-transform: uppercase;
+	color: white;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: larger;
+}
+.brand h1 span, .brand p span{
+	color: crimson;
+}
 
 /* header */
 #header {
@@ -84,16 +101,6 @@ img{
 #header .nav-list ul li:hover a {
 	color: crimson;
 }
-
-.brand h1 {
-	font-size: 3rem;
-	text-transform: uppercase;
-	color: white;
-}
-.brand h1 span {
-	color: crimson;
-}
-
 
 /* End header */
 
@@ -345,6 +352,61 @@ text-transform: uppercase;
 }
 /* End Projects section */
 
+/* Footer */
+#footer {
+	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+}
+#footer .footer {
+	min-height: 200px;
+	flex-direction: column;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+#footer p:nth-child(1) {
+	color: white;
+	font-weight: bold;
+	font-size: 2.5rem;
+	letter-spacing: .1rem;
+}
+#footer .social-icon {
+	display: flex;
+	margin-bottom: 30px;
+}
+#footer .social-item {
+	height: 50px;
+	width: 50px;
+	margin: 0 5px;
+}
+#footer .social-item span {
+	height: 50px;
+	width: 50px;
+    margin-left: 7px;
+    color:white;
+}
+#footer .social-item img  {
+	filter: grayscale(1);
+	transition: .3s ease filter;
+}
+#footer .social-item:hover span{
+    margin: 0 7px;
+    color:crimson;
+    font-weight: bold;
+}
+
+#footer .social-item:hover img, #footer .social-item:hover span {
+	filter: grayscale(0);
+}
+#footer p:nth-child(2) {
+	color: white;
+    font-size: 1.8rem;
+    margin:15px;
+    padding:10px;
+}
+#footer small{
+    color: white;
+    margin-top: 15px;
+}
+/* End Footer */
 
 
 /* Keyframes */
