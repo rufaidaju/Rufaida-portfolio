@@ -30,10 +30,10 @@ class Header extends Component{
                   <button className="hamburger" onClick={this.handleClick}><div className="bar"></div></button>
                   <ul>
                     <li><a href="#start" data-after="Home">Home</a></li>
-                    <li><a href="#services" data-after="Skills">Skills</a></li>
-                    <li><a href="#about" data-after="Education">Education</a></li>
+                    <li><a href="#skills" data-after="Skills">Skills</a></li>
+                    <li><a href="#education" data-after="Education">Education</a></li>
                     <li><a href="#projects" data-after="Projects">Projects</a></li>
-                    <li><a href="#contact" data-after="Contact">Contact</a></li>
+                    <li><a href="#footer" data-after="Contact">Contact</a></li>
                   </ul>
                 </div>
               </div>
