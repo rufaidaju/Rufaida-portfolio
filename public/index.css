@@ -188,19 +188,19 @@ img{
 /* End start section */
 
 /* Start informations section */
-#informations{
+#education, #skills{
 background-color: #e8e2e2;
 display: flex;
 border-bottom:3px solid #5d5252;
 }
-#informations .informations{
+#education .informations, #skills .informations{
     flex-direction: column;
     text-align: center;
     max-width: 1500px;
     margin: 0 auto;
     padding: 100px 0;
 }
-#informations .section-title{
+#education .section-title, #skills.section-title{
     font-size: 4rem;
     font-weight: 300;
     margin-bottom: 10px;
@@ -209,14 +209,14 @@ border-bottom:3px solid #5d5252;
     text-align: center;
     color: crimson;
 }
-#informations .informations-content{
+#education .informations-content, #skills .informations-content{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 40px;
 }
-#informations .informations-item{
+#education .informations-item, #skills .informations-item{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -235,7 +235,7 @@ border-bottom:3px solid #5d5252;
     max-width: 23%;
     margin: 15px 2% !important;
 }
-#informations .informations-item::after{
+#education .informations-item::after, #skills .informations-item::after{
     content:"";
     position: absolute;
     left: 0;
@@ -245,15 +245,17 @@ border-bottom:3px solid #5d5252;
     opacity: .4;
     z-index: -1;
 }
-#informations .informations-item p{
+#education .informations-item p,
+#skills .informations-item p{
     font-size: larger;
 }
-#informations  .informations-content .icon{
+#education  .informations-content .icon,
+#skills .informations-content .icon{
     height: 80px;
     width: 80px;
     margin-bottom: 20px;
 }
-#informations .icon img{
+#education .icon img, #skills .icon img{
     height: 100%;
     width: 100%;
     object-fit: cover;
