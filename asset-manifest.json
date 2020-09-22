@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Rufaida-portfolio/static/js/main.18933e53.chunk.js",
+    "main.js.map": "/Rufaida-portfolio/static/js/main.18933e53.chunk.js.map",
+    "runtime-main.js": "/Rufaida-portfolio/static/js/runtime-main.f8b10755.js",
+    "runtime-main.js.map": "/Rufaida-portfolio/static/js/runtime-main.f8b10755.js.map",
+    "static/js/2.3b67e28b.chunk.js": "/Rufaida-portfolio/static/js/2.3b67e28b.chunk.js",
+    "static/js/2.3b67e28b.chunk.js.map": "/Rufaida-portfolio/static/js/2.3b67e28b.chunk.js.map",
+    "index.html": "/Rufaida-portfolio/index.html",
+    "precache-manifest.a6fa17093e58d2f07bc5146d3c7d984e.js": "/Rufaida-portfolio/precache-manifest.a6fa17093e58d2f07bc5146d3c7d984e.js",
+    "service-worker.js": "/Rufaida-portfolio/service-worker.js",
+    "static/js/2.3b67e28b.chunk.js.LICENSE.txt": "/Rufaida-portfolio/static/js/2.3b67e28b.chunk.js.LICENSE.txt",
+    "static/media/giphy.PNG": "/Rufaida-portfolio/static/media/giphy.6b99945a.PNG",
+    "static/media/meal-sharing.PNG": "/Rufaida-portfolio/static/media/meal-sharing.76b0437a.PNG",
+    "static/media/move-circles.PNG": "/Rufaida-portfolio/static/media/move-circles.fcfd0146.PNG",
+    "static/media/random-circles.PNG": "/Rufaida-portfolio/static/media/random-circles.32a89b0a.PNG",
+    "static/media/weather.PNG": "/Rufaida-portfolio/static/media/weather.1deccad4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8b10755.js",
+    "static/js/2.3b67e28b.chunk.js",
+    "static/js/main.18933e53.chunk.js"
+  ]
+}
