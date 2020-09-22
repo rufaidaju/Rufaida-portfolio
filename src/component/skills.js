@@ -17,7 +17,7 @@ let skillsImg = {
 function Skills(){
     
 return(
-    <section id="informations">
+    <section id="skills">
         <div className="informations container">
             <InformationTitle title="Skills" />
             <div className="informations-content">
