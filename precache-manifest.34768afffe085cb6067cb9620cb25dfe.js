@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73a6c0f8d63b81e6b4bfad3c1264694c",
+    "revision": "827f752f0e66e3d582740bd048384f89",
     "url": "/Rufaida-portfolio/index.html"
   },
   {
-    "revision": "44715873d16f82798591",
-    "url": "/Rufaida-portfolio/static/js/2.195532ff.chunk.js"
+    "revision": "a52976e80284713f0cac",
+    "url": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js"
   },
   {
-    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/Rufaida-portfolio/static/js/2.195532ff.chunk.js.LICENSE.txt"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6306843d6f8966dec070",
-    "url": "/Rufaida-portfolio/static/js/main.1621ddb1.chunk.js"
+    "revision": "89a1588a37e4bf373769",
+    "url": "/Rufaida-portfolio/static/js/main.79bbec1d.chunk.js"
   },
   {
-    "revision": "70f6794bba2057ed593f",
-    "url": "/Rufaida-portfolio/static/js/runtime-main.e912668b.js"
+    "revision": "2b9103e9260c0c179b4d",
+    "url": "/Rufaida-portfolio/static/js/runtime-main.661ca9e2.js"
   },
   {
     "revision": "6b99945a29a5449a96b71de77e80f105",

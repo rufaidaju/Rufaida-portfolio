@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/Rufaida-portfolio/static/js/main.1621ddb1.chunk.js",
-    "main.js.map": "/Rufaida-portfolio/static/js/main.1621ddb1.chunk.js.map",
-    "runtime-main.js": "/Rufaida-portfolio/static/js/runtime-main.e912668b.js",
-    "runtime-main.js.map": "/Rufaida-portfolio/static/js/runtime-main.e912668b.js.map",
-    "static/js/2.195532ff.chunk.js": "/Rufaida-portfolio/static/js/2.195532ff.chunk.js",
-    "static/js/2.195532ff.chunk.js.map": "/Rufaida-portfolio/static/js/2.195532ff.chunk.js.map",
+    "main.js": "/Rufaida-portfolio/static/js/main.79bbec1d.chunk.js",
+    "main.js.map": "/Rufaida-portfolio/static/js/main.79bbec1d.chunk.js.map",
+    "runtime-main.js": "/Rufaida-portfolio/static/js/runtime-main.661ca9e2.js",
+    "runtime-main.js.map": "/Rufaida-portfolio/static/js/runtime-main.661ca9e2.js.map",
+    "static/js/2.b732869c.chunk.js": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js",
+    "static/js/2.b732869c.chunk.js.map": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.map",
     "index.html": "/Rufaida-portfolio/index.html",
-    "precache-manifest.b3d33d74b4c2de64c62d5c9152485a97.js": "/Rufaida-portfolio/precache-manifest.b3d33d74b4c2de64c62d5c9152485a97.js",
+    "precache-manifest.34768afffe085cb6067cb9620cb25dfe.js": "/Rufaida-portfolio/precache-manifest.34768afffe085cb6067cb9620cb25dfe.js",
     "service-worker.js": "/Rufaida-portfolio/service-worker.js",
-    "static/js/2.195532ff.chunk.js.LICENSE.txt": "/Rufaida-portfolio/static/js/2.195532ff.chunk.js.LICENSE.txt",
+    "static/js/2.b732869c.chunk.js.LICENSE.txt": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.LICENSE.txt",
     "static/media/giphy.PNG": "/Rufaida-portfolio/static/media/giphy.6b99945a.PNG",
     "static/media/meal-sharing.PNG": "/Rufaida-portfolio/static/media/meal-sharing.76b0437a.PNG",
     "static/media/move-circles.PNG": "/Rufaida-portfolio/static/media/move-circles.fcfd0146.PNG",
@@ -17,8 +17,8 @@
     "static/media/weather.PNG": "/Rufaida-portfolio/static/media/weather.1deccad4.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.e912668b.js",
-    "static/js/2.195532ff.chunk.js",
-    "static/js/main.1621ddb1.chunk.js"
+    "static/js/runtime-main.661ca9e2.js",
+    "static/js/2.b732869c.chunk.js",
+    "static/js/main.79bbec1d.chunk.js"
   ]
 }
