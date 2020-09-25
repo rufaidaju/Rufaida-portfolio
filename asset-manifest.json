@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Rufaida-portfolio/static/js/main.79bbec1d.chunk.js",
-    "main.js.map": "/Rufaida-portfolio/static/js/main.79bbec1d.chunk.js.map",
+    "main.js": "/Rufaida-portfolio/static/js/main.f3cf4e44.chunk.js",
+    "main.js.map": "/Rufaida-portfolio/static/js/main.f3cf4e44.chunk.js.map",
     "runtime-main.js": "/Rufaida-portfolio/static/js/runtime-main.661ca9e2.js",
     "runtime-main.js.map": "/Rufaida-portfolio/static/js/runtime-main.661ca9e2.js.map",
     "static/js/2.b732869c.chunk.js": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js",
     "static/js/2.b732869c.chunk.js.map": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.map",
     "index.html": "/Rufaida-portfolio/index.html",
-    "precache-manifest.34768afffe085cb6067cb9620cb25dfe.js": "/Rufaida-portfolio/precache-manifest.34768afffe085cb6067cb9620cb25dfe.js",
+    "precache-manifest.3f7d27ff22ea03ca935204749dbb16e8.js": "/Rufaida-portfolio/precache-manifest.3f7d27ff22ea03ca935204749dbb16e8.js",
     "service-worker.js": "/Rufaida-portfolio/service-worker.js",
     "static/js/2.b732869c.chunk.js.LICENSE.txt": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.LICENSE.txt",
     "static/media/giphy.PNG": "/Rufaida-portfolio/static/media/giphy.6b99945a.PNG",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.661ca9e2.js",
     "static/js/2.b732869c.chunk.js",
-    "static/js/main.79bbec1d.chunk.js"
+    "static/js/main.f3cf4e44.chunk.js"
   ]
 }
