@@ -9,7 +9,7 @@ function Start (){
                 <p>Hello, <span></span></p>
                 <p>My Name Is <span></span></p>
                 <p>Rufaida <span></span></p>
-                <a href="#" type="button" className="cta">Portfolio</a>
+                <a href="../data/rufaida" download="RufaidaCV.pdf" className="cta">Download CV</a>
             </div>   
         </div>
   </section>
