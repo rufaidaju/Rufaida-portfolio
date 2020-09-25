@@ -8,7 +8,7 @@ const projects=[
       description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
         The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
       type:`Node.js - Fullstack development`,
-      imageSrc:require('../img/meal-sharing.PNG'),
+      imageSrc:require('../data/img/meal-sharing.PNG'),
       imageAlt:"Meal sharing app"
     },
     {
@@ -16,7 +16,7 @@ const projects=[
       description:`Move the circles from the current random position to the target position :
       Translate one by one and translate all at once and log All boxes fulfilled out after each element has been moved.`,
       type:`JavaScript -Promise.all and calling a promise one at a time`,
-      imageSrc:require('../img/move-circles.PNG'),
+      imageSrc:require('../data/img/move-circles.PNG'),
       imageAlt:"Move circles app"
     },
     {
@@ -25,7 +25,7 @@ const projects=[
       create lots of circles in different sizes and colors on a webpage every 100ms.
       create lots of circles in different sizes and colors on a webpage and the circles appear around the cursor.`,
       type:`JavaScript Classes`,
-      imageSrc:require('../img/random-circles.PNG'),
+      imageSrc:require('../data/img/random-circles.PNG'),
       imageAlt:"Random circles app"
     },
     {
@@ -34,14 +34,14 @@ const projects=[
         When searching a word the application will find a gif using the searched word using the giphy api.
         User can specify how many gif results the user wants.`,
       type:"JavaScript, Apis, Fetch",
-      imageSrc:require('../img/giphy.PNG'),
+      imageSrc:require('../data/img/giphy.PNG'),
       imageAlt:"Giphy app"
     },
     {
       projectName:"Weather",
       description:`Based on a user's location can find the relevant weather for that user..`,
       type:`JavaScript, Apis, Fetch`,
-      imageSrc:require('../img/weather.PNG'),
+      imageSrc:require('../data/img/weather.PNG'),
       imageAlt:"Weather app"
     },
 ]
