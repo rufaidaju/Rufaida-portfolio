@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "651f72affd5f9ed0bb7a1b9ea636c44a",
+    "revision": "3d24bc29ab45c0a84a0465cd46ca8b35",
     "url": "/Rufaida-portfolio/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24e20ee3fad60fe8e271",
-    "url": "/Rufaida-portfolio/static/js/main.f3cf4e44.chunk.js"
+    "revision": "a2b600b769e234b6e146",
+    "url": "/Rufaida-portfolio/static/js/main.e0ef85e0.chunk.js"
   },
   {
     "revision": "2b9103e9260c0c179b4d",
