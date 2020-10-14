@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rufaida-portfolio/precache-manifest.34e86aaee7885ec7d1a6786c99f545e5.js"
+  "/Rufaida-portfolio/precache-manifest.173530c2048228b7b950b1313300c37a.js"
 );
 
 self.addEventListener('message', (event) => {
