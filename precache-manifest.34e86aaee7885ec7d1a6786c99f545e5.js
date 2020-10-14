@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d24bc29ab45c0a84a0465cd46ca8b35",
+    "revision": "7b42e80ecbf39fb337a458981bcf6a05",
     "url": "/Rufaida-portfolio/index.html"
   },
   {
-    "revision": "a52976e80284713f0cac",
-    "url": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js"
+    "revision": "80c36926f407903acccc",
+    "url": "/Rufaida-portfolio/static/js/2.0797b778.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Rufaida-portfolio/static/js/2.b732869c.chunk.js.LICENSE.txt"
+    "url": "/Rufaida-portfolio/static/js/2.0797b778.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2b600b769e234b6e146",
-    "url": "/Rufaida-portfolio/static/js/main.e0ef85e0.chunk.js"
+    "revision": "897245502c38c10e05ca",
+    "url": "/Rufaida-portfolio/static/js/main.d86fd34a.chunk.js"
   },
   {
     "revision": "2b9103e9260c0c179b4d",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "32a89b0aed76000873a6718c851701ad",
     "url": "/Rufaida-portfolio/static/media/random-circles.32a89b0a.PNG"
+  },
+  {
+    "revision": "dd22973a7072f939f50d954a789f134d",
+    "url": "/Rufaida-portfolio/static/media/rufaida.dd22973a.pdf"
   },
   {
     "revision": "1deccad4884ca835ad313401bcf4d00b",
