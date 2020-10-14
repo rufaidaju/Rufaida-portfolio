@@ -326,6 +326,10 @@ text-transform: uppercase;
 	font-weight: 500;
     margin-top: 10px;
 }
+#projects .project-info p a{
+    color:wheat;
+    text-decoration: underline;
+}
 #projects .project-info .project-type {
     color:crimson;
 }
