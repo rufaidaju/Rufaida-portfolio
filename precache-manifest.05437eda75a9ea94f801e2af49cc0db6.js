@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cced6c482569b1151ecdbe1f362500b4",
+    "revision": "bde24d0c781402613383cdfa91304a40",
     "url": "/Rufaida-portfolio/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rufaida-portfolio/static/js/2.0797b778.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "600022dccff49c0b0ad6",
-    "url": "/Rufaida-portfolio/static/js/main.af8d99df.chunk.js"
+    "revision": "eecdf671c443e2493a3e",
+    "url": "/Rufaida-portfolio/static/js/main.830e8820.chunk.js"
   },
   {
     "revision": "2b9103e9260c0c179b4d",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rufaida-portfolio/static/media/random-circles.32a89b0a.PNG"
   },
   {
-    "revision": "39b071f996f436e4de1516543edb020d",
-    "url": "/Rufaida-portfolio/static/media/rufaida.39b071f9.pdf"
+    "revision": "ee371d8122d2ef6ead39c5c2aaf111c9",
+    "url": "/Rufaida-portfolio/static/media/rufaida.ee371d81.pdf"
   },
   {
     "revision": "1deccad4884ca835ad313401bcf4d00b",
