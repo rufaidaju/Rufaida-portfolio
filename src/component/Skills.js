@@ -2,7 +2,6 @@ import React from "react";
 import  InformationContent from "./InformationContent"
 import  InformationTitle from "./InformationTitle"
 
-
 let skillsImg = {
     html: "https://img.icons8.com/color/48/000000/html-5.png",
     css: "https://img.icons8.com/color/48/000000/css3.png",
@@ -17,7 +16,7 @@ let skillsImg = {
 function Skills(){
     
 return(
-    <section id="informations">
+    <section id="skills">
         <div className="informations container">
             <InformationTitle title="Skills" />
             <div className="informations-content">

@@ -12,7 +12,7 @@ let educationImg = {
 
 function Education(){
 return(
-    <section id="informations">
+    <section id="education">
           <div className="informations container">
                <InformationTitle  title="Education"/>
                <div className="informations-content education-content">

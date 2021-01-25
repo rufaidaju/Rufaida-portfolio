@@ -1,5 +1,6 @@
 import React from "react";
-import rufaida from "../data/rufaida.pdf"
+
+import RufaidaCv from "../data/rufaida.pdf"
 
 function Start (){
     return (
@@ -9,7 +10,7 @@ function Start (){
                 <p>Hello, <span></span></p>
                 <p>My Name Is <span></span></p>
                 <p>Rufaida <span></span></p>
-                <a href={rufaida} download className="cta">Download CV</a>
+                <a href={RufaidaCv} download="RufaidaCV.pdf" className="cta">Download CV</a>
             </div>   
         </div>
   </section>

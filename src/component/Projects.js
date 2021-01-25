@@ -5,6 +5,7 @@ import Project from "./Project"
 const projects=[
     {
       projectName:"Meal Sharing",
+      projectLink:"https://github.com/rufaidaju/meal-sharing",
       description:`Meal sharing website,It's an application where users can book a reservation at a meal another user has created. 
         The user can add a new meal for people to join, review the meal and see all reviews for it as well.`,
       type:`Node.js - Fullstack development`,
@@ -13,6 +14,7 @@ const projects=[
     },
     {
       projectName:"Move Circles",
+      projectLink:"https://github.com/rufaidaju/hyf-homework/tree/master/javascript/javascript3/week2",
       description:`Move the circles from the current random position to the target position :
       Translate one by one and translate all at once and log All boxes fulfilled out after each element has been moved.`,
       type:`JavaScript -Promise.all and calling a promise one at a time`,
@@ -21,6 +23,7 @@ const projects=[
     },
     {
       projectName:"Random Circles",
+      projectLink:"https://github.com/rufaidaju/hyf-homework/tree/master/javascript/javascript3/week3/circles",
       description:`There are two ways to draw the circles:
       create lots of circles in different sizes and colors on a webpage every 100ms.
       create lots of circles in different sizes and colors on a webpage and the circles appear around the cursor.`,
@@ -30,6 +33,7 @@ const projects=[
     },
     {
       projectName:"Giphy",
+      projectLink:"https://github.com/rufaidaju/hyf-homework/tree/master/javascript/javascript3/week1/Giphy-api",
       description:`A site where a user can search for any word.
         When searching a word the application will find a gif using the searched word using the giphy api.
         User can specify how many gif results the user wants.`,
@@ -39,11 +43,12 @@ const projects=[
     },
     {
       projectName:"Weather",
+      projectLink:"https://github.com/rufaidaju/hyf-homework/tree/master/javascript/javascript3/week1/Weather-app",
       description:`Based on a user's location can find the relevant weather for that user..`,
       type:`JavaScript, Apis, Fetch`,
       imageSrc:require('../data/img/weather.PNG'),
       imageAlt:"Weather app"
-    },
+    }, 
 ]
 
 function Projects(){
